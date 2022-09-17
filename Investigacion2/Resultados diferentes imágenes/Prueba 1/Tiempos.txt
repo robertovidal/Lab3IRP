@@ -1,0 +1,3 @@
+Derivada: 2.6682646996341646 segundos
+Sobel: 0.0534227997995913 segundos
+Canny: 0.10776520008221269 segundos
